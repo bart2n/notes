@@ -1,1 +1,1 @@
-web : gununicorn mynotes --logfile -
+web : gunicorn mynotes.wsgi --log--file -
